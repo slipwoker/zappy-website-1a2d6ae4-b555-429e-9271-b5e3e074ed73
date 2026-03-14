@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Elevate your space with premium furniture and interior design services. Smart finds meet simple living in our curated collection of luxury home decor.
+
+### Studio
+https://example.com/studio
+Step into our design studio where sophisticated simplicity comes alive. Experience the Steelcase Gesture office chair and curated furniture collections firsthand.
+
+### Gallery
+https://example.com/gallery
+Immerse yourself in our gallery of stunning interiors featuring garden corner sofas, halogen lighting, and artisan-crafted pieces for modern living.
+
+### Contact
+https://example.com/contact
+Ready to transform your space? Connect with our interior design experts today. Let&#39;s bring your vision to life with smart finds and simple living solutions.
+
+### Products
+https://example.com/products
+Our Products - WOODIES ON WOODLAWN
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - WOODIES ON WOODLAWN
+
+### Category
+https://example.com/category/:slug
+Products - WOODIES ON WOODLAWN
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
